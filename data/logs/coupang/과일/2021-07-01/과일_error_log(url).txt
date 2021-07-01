@@ -1,0 +1,15 @@
+[2021-07-01 19:51:06] == (과일, 사과) Error 
+ >Error Message: arrays must all be same length 
+
+[2021-07-01 19:51:10] == (과일, 포도) Error 
+ >Error Message: arrays must all be same length 
+
+[2021-07-01 19:51:14] == (과일, 수박) Error 
+ >Error Message: arrays must all be same length 
+
+[2021-07-01 19:51:18] == (과일, 참외) Error 
+ >Error Message: arrays must all be same length 
+
+[2021-07-01 19:51:21] == (과일, 아보카도) Error 
+ >Error Message: arrays must all be same length 
+
